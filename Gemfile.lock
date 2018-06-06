@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     abstract (1.0.0)
-    actionmailer (3.0.3)
+    actionmailer (3.2.15)
       actionpack (= 3.0.3)
       mail (~> 2.2.9)
     actionpack (3.0.3)
