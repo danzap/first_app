@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <!--System: Tesouro_Direto-->
+  <!--Version: 1.0-->
+  <!--Screen: tela_login-->
+  <entry key="textbox_senha" by="id" value="BodyContent_txtSenha" preferred="true" />
+  <entry key="textbox_senha" by="name" value="ctl00$BodyContent$txtSenha" />
+  <entry key="textbox_senha" by="xpath" value="//input[@id='BodyContent_txtSenha']" />
+  <entry key="botao_entrar" by="id" value="BodyContent_btnLogar" preferred="true" />
+  <entry key="botao_entrar" by="classname" value="button" />
+  <entry key="botao_entrar" by="name" value="ctl00$BodyContent$btnLogar" />
+  <entry key="botao_entrar" by="xpath" value="//input[@id='BodyContent_btnLogar']" />
+  <entry key="numero_cpf" by="xpath" value="//*[@id=&quot;BodyContent_txtLogin&quot;]" preferred="true" />
+  <entry key="numero_cpf" by="name" value="ctl00$BodyContent$txtLogin" />
+  <entry key="numero_cpf" by="xpath" value="//input[@id='BodyContent_txtLogin']" />
+  <entry key="digite_texto" by="classname" value="lst" />
+  <entry key="digite_texto" by="name" value="q" preferred="true" />
+  <entry key="digite_texto" by="xpath" value="//input[@name='q']" />
+  <entry key="login_texto" by="id" value="USER" preferred="true" />
+  <entry key="login_texto" by="name" value="USER" />
+  <entry key="login_texto" by="xpath" value="//input[@id='USER']" />
+  <!--Screen: tela_investimento-->
+  <entry key="opcao_investir" by="id" value="BodyContent_rdbComprar" preferred="true" />
+  <entry key="opcao_investir" by="name" value="ctl00$BodyContent$Comprar" />
+  <entry key="opcao_investir" by="xpath" value="//input[@id='BodyContent_rdbComprar']" />
+  <entry key="opcao_agendar_investimento" by="id" value="BodyContent_rdbAgendar" preferred="true" />
+  <entry key="opcao_agendar_investimento" by="name" value="ctl00$BodyContent$Comprar" />
+  <entry key="opcao_agendar_investimento" by="xpath" value="//input[@id='BodyContent_rdbAgendar']" />
+  <entry key="combo_instituicao_financeira" by="id" value="BodyContent_ddlAgente" preferred="true" />
+  <entry key="combo_instituicao_financeira" by="name" value="ctl00$BodyContent$ddlAgente" />
+  <entry key="combo_instituicao_financeira" by="xpath" value="//select[@id='BodyContent_ddlAgente']" />
+  <entry key="texto_ipca2024_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_0" preferred="true" />
+  <entry key="texto_ipca2024_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca2024_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl01$txtQtdeDesejada" />
+  <entry key="texto_ipca2024_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_0']" />
+  <entry key="texto_ipca2035_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_1" preferred="true" />
+  <entry key="texto_ipca2035_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca2035_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl02$txtQtdeDesejada" />
+  <entry key="texto_ipca2035_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_1']" />
+  <entry key="texto_ipca2045_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_2" preferred="true" />
+  <entry key="texto_ipca2045_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca2045_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl03$txtQtdeDesejada" />
+  <entry key="texto_ipca2045_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_2']" />
+  <entry key="texto_ipca_j_2026_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_3" preferred="true" />
+  <entry key="texto_ipca_j_2026_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2026_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl04$txtQtdeDesejada" />
+  <entry key="texto_ipca_j_2026_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_3']" />
+  <entry key="texto_ipca_j_2035_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_4" preferred="true" />
+  <entry key="texto_ipca_j_2035_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2035_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl05$txtQtdeDesejada" />
+  <entry key="texto_ipca_j_2035_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_4']" />
+  <entry key="texto_ipca_j_2050_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_5" preferred="true" />
+  <entry key="texto_ipca_j_2050_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2050_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl06$txtQtdeDesejada" />
+  <entry key="texto_ipca_j_2050_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_5']" />
+  <entry key="texto_prefixado2021_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_6" preferred="true" />
+  <entry key="texto_prefixado2021_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_prefixado2021_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl07$txtQtdeDesejada" />
+  <entry key="texto_prefixado2021_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_6']" />
+  <entry key="texto_selic2023_qtde_desejada" by="id" value="BodyContent_repTitPublico_txtQtdeDesejada_7" preferred="true" />
+  <entry key="texto_selic2023_qtde_desejada" by="classname" value="text-right" />
+  <entry key="texto_selic2023_qtde_desejada" by="name" value="ctl00$BodyContent$repTitPublico$ctl08$txtQtdeDesejada" />
+  <entry key="texto_selic2023_qtde_desejada" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtQtdeDesejada_7']" />
+  <entry key="texto_ipca2024_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_0" preferred="true" />
+  <entry key="texto_ipca2024_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca2024_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl01$txtValorDesejado" />
+  <entry key="texto_ipca2024_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_0']" />
+  <entry key="texto_ipca2035_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_1" preferred="true" />
+  <entry key="texto_ipca2035_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca2035_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl02$txtValorDesejado" />
+  <entry key="texto_ipca2035_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_1']" />
+  <entry key="texto_ipca2045_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_2" preferred="true" />
+  <entry key="texto_ipca2045_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca2045_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl03$txtValorDesejado" />
+  <entry key="texto_ipca2045_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_2']" />
+  <entry key="texto_ipca_j_2026_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_3" preferred="true" />
+  <entry key="texto_ipca_j_2026_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2026_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl04$txtValorDesejado" />
+  <entry key="texto_ipca_j_2026_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_3']" />
+  <entry key="texto_ipca_j_2035_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_4" preferred="true" />
+  <entry key="texto_ipca_j_2035_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2035_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl05$txtValorDesejado" />
+  <entry key="texto_ipca_j_2035_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_4']" />
+  <entry key="texto_ipca_j_2050_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_5" preferred="true" />
+  <entry key="texto_ipca_j_2050_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_ipca_j_2050_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl06$txtValorDesejado" />
+  <entry key="texto_ipca_j_2050_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_5']" />
+  <entry key="texto_prefixado2021_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_6" preferred="true" />
+  <entry key="texto_prefixado2021_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_prefixado2021_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl07$txtValorDesejado" />
+  <entry key="texto_prefixado2021_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_6']" />
+  <entry key="texto_selic2023_valor_desejado" by="id" value="BodyContent_repTitPublico_txtValorDesejado_7" preferred="true" />
+  <entry key="texto_selic2023_valor_desejado" by="classname" value="text-right" />
+  <entry key="texto_selic2023_valor_desejado" by="name" value="ctl00$BodyContent$repTitPublico$ctl08$txtValorDesejado" />
+  <entry key="texto_selic2023_valor_desejado" by="xpath" value="//input[@id='BodyContent_repTitPublico_txtValorDesejado_7']" />
+  <entry key="botao_continuar" by="id" value="BodyContent_btnContinuar" preferred="true" />
+  <entry key="botao_continuar" by="classname" value="button" />
+  <entry key="botao_continuar" by="name" value="ctl00$BodyContent$btnContinuar" />
+  <entry key="botao_continuar" by="xpath" value="//input[@id='BodyContent_btnContinuar']" />
+</locators>
