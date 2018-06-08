@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <!--System: Tesouro_Direto-->
+  <!--Version: 1.0-->
+  <!--Screen: tela_login-->
+  <entry key="numero_cpf" by="id" value="BodyContent_txtLogin" preferred="true" />
+  <entry key="numero_cpf" by="name" value="ctl00$BodyContent$txtLogin" />
+  <entry key="numero_cpf" by="xpath" value="//input[@id='BodyContent_txtLogin']" />
+  <entry key="textbox_senha" by="id" value="BodyContent_txtSenha" preferred="true" />
+  <entry key="textbox_senha" by="name" value="ctl00$BodyContent$txtSenha" />
+  <entry key="textbox_senha" by="xpath" value="//input[@id='BodyContent_txtSenha']" />
+  <entry key="botao_entrar" by="id" value="BodyContent_btnLogar" preferred="true" />
+  <entry key="botao_entrar" by="classname" value="button" />
+  <entry key="botao_entrar" by="name" value="ctl00$BodyContent$btnLogar" />
+  <entry key="botao_entrar" by="xpath" value="//input[@id='BodyContent_btnLogar']" />
+</locators>
